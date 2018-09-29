@@ -1,2 +1,2 @@
 # Infotrace
-Infotrace is mobile application for GPS flets controling 
+Infotrace is software Solution for GPS flets controling 
